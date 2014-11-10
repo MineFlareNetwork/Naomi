@@ -1,0 +1,11 @@
+name: Naomi
+main: com.jordanlee833.Naomi.Main
+version: 1.5
+
+commands:
+    Naomi:
+        description: Naomi Is Love. Naomi Is Life.
+    Rainbow:
+        description: Naomi Is Love. Naomi Is Life. With 20% more rainbows.
+    Dashing:
+        description: Naomi Is Love. Naomi Is Life. Now includes more colors.
